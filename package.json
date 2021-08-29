@@ -1,0 +1,16 @@
+{
+  "name": "has-pkg",
+  "version": "0.0.1",
+  "description": "Check if package is installed",
+  "homepage": "https://github.com/antfu/has-pkg",
+  "bugs": "https://github.com/antfu/has-pkg/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antfu/has-pkg"
+  },
+  "funding": "https://github.com/sponsors/antfu",
+  "license": "MIT",
+  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "main": "index.cjs",
+  "types": "index.d.ts"
+}
